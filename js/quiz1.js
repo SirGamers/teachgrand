@@ -16,5 +16,5 @@ function submitQuiz() {
   document.getElementById("nextPage").style.display = "block";
 }
 function goToNextPage() {
-  window.location.href = "../part2/wip.html";
+  window.location.href = "../wip.html";
 }
