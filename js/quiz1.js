@@ -1,4 +1,4 @@
-const answers = [1, 1];
+const answers = [0, 1, 0, 0, 0];
 function submitQuiz() {
   let score = 0;
   for (let i = 0; i < answers.length; i++) {
